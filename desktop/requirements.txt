@@ -1,0 +1,7 @@
+pyserial
+pyautogui
+pillow
+comtypes
+winsdk
+pywin32
+pywinauto
